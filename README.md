@@ -21,4 +21,4 @@ Erantzungailu automatikoaren konfigurazioa.
 
 Deien grabaketara aktibatu.
 
-Julen Antxia eta Asier Fernandez
+*Julen Antxia eta Asier Fernandez*
