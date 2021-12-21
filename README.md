@@ -5,9 +5,20 @@ Proiektu honen helburua Asterisk erabiliz telefonogune bat sortzea da. Horretara
 
 Honako fitxategi hauek editatu ditugu probak egiterako orduan:
 
-- extensions.conf
-- pjsip.conf
-- voicemail.conf
-- features.conf
+##### extensions.conf
+
+Luzapenen konfigurazioa, deien desbideraketa eta erantzungailu automatikorako luzapenen konfigurazioa.
+
+##### pjsip.conf
+
+Erabiltzaileen esleipena.
+
+###### voicemail.conf
+
+Erantzungailu automatikoaren konfigurazioa.
+
+###### features.conf
+
+Deien grabaketara aktibatu.
 
 Julen Antxia eta Asier Fernandez
